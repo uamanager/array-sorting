@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>[uamanager] Array Sorting</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            background: #000000;
+        }
+
+        .btn-link {
+            background: rgba(255, 255, 255, 0.3);
+            padding: 3px;
+            height: 20px;
+            width: 100px;
+            display: inline-block;
+            color: #ffffff;
+            font-family: monospace;
+            cursor: pointer;
+            opacity: 0.6;
+        }
+
+        .btn-link:hover {
+            text-decoration: underline;
+            opacity: 0.9;
+        }
+
+        .btn-link.active {
+            opacity: 1;
+        }
+
+        #info {
+            background: rgba(255, 255, 255, 0.3);
+            position: fixed;
+            border-radius: 3px;
+            padding: 3px;
+            height: 15px;
+            top: 10px;
+            left: 10px;
+            width: auto;
+            display: inline-block;
+            color: #ffffff;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+<div id="info">
+    <span>FPS: <span class="frame-rate">0</span></span>
+    <span>Execution time: <span class="performance-time">0</span> ms</span>
+</div>
+</body>
+<script src="array-sorting.visualisation.js"></script>
+<script src="array-sorting.js"></script>
+<script src="p5/lib/p5.js"></script>
+<script src="p5/lib/addons/p5.dom.js"></script>
+<script src="main.js"></script>
+</html>
