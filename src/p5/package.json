@@ -48,7 +48,7 @@
     "connect-modrewrite": "^0.10.1",
     "derequire": "^2.0.0",
     "eslint": "^4.9.0",
-    "eslint-config-prettier": "2.7.0",
+    "eslint-config-prettier": "2.10.0",
     "eslint-plugin-prettier": "2.7.0",
     "esprima-extract-comments": "^0.2.1",
     "grunt": "1.5.3",
