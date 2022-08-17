@@ -49,7 +49,7 @@
     "derequire": "^2.0.0",
     "eslint": "8.22.0",
     "eslint-config-prettier": "8.5.0",
-    "eslint-plugin-prettier": "2.7.0",
+    "eslint-plugin-prettier": "4.2.1",
     "esprima-extract-comments": "^0.2.1",
     "grunt": "1.5.3",
     "grunt-cli": "^0.1.13",
