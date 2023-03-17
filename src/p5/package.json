@@ -43,7 +43,7 @@
     "all-contributors-cli": "^4.5.0",
     "amdclean": "0.6.2",
     "browserify": "^11.0.1",
-    "chai": "^3.5.0",
+    "chai": "^4.0.0",
     "concat-files": "^0.1.0",
     "connect-modrewrite": "^0.10.1",
     "derequire": "^2.0.0",
