@@ -29,7 +29,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "brfs": "^1.4.3",
+    "brfs": "^2.0.0",
     "es6-promise": "^4.1.1",
     "fetch-jsonp": "^1.1.3",
     "file-saver": "^1.3.3",
