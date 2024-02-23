@@ -47,7 +47,7 @@
     "concat-files": "^0.1.0",
     "connect-modrewrite": "^0.10.1",
     "derequire": "^2.0.0",
-    "eslint": "8.22.0",
+    "eslint": "8.57.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "2.7.0",
     "esprima-extract-comments": "^0.2.1",
